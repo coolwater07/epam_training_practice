@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//social-link[contains(href(),\"https://www.linkedin.com/company/epam-systems/\"]"
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="4" failures="0" errors="0" skipped="0">
+  <testsuite name="test advanced command" timestamp="2024-10-15T10:37:37" time="17.862" tests="4" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="test_advanced_command"/>
+      <property name="capabilities" value="chrome.129_0_6668_90.windows"/>
+      <property name="file" value="file:///E:/epam_training/webdriver/test_advanced_commands/specs/test_advanced_commands.spec.js"/>
+    </properties>
+    <testcase classname="chrome.129_0_6668_90.windows.test_advanced_command" name="should get the page title using execute" time="5.33">
+      <system-out><![CDATA[
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.129_0_6668_90.windows.test_advanced_command" name="should wait until the Investors button is displayed" time="5.135">
+      <system-out><![CDATA[
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+RESULT: {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.129_0_6668_90.windows.test_advanced_command" name="should perform browser actions like scrolling and hovering" time="4.395">
+      <system-out><![CDATA[
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: POST /session/8a7f1d50c24eaba9f8c625e1e6f394d3/actions - {"actions":[{"id":"action1","type":"pointer","parameters":{"pointerType":"mouse"},"actions":[{"type":"pointerMove","button":0,"width":0,"height":0,"pressure":0,"tangentialPressure":0,"tiltX":0,"tiltY":0,"twist":0,"altitudeAngle":0,"_":"5 more keys: [\"azimuthAngle\",\"x\",\"y\",\"duration\",\"origin\"]"}]}]}
+RESULT: {"actions":[{"id":"action1","type":"pointer","parameters":{"pointerType":"mouse"},"actions":[{"type":"pointerMove","button":0,"width":0,"height":0,"pressure":0,"tangentialPressure":0,"tiltX":0,"tiltY":0,"twist":0,"altitudeAngle":0,"_":"5 more keys: [\"azimuthAngle\",\"x\",\"y\",\"duration\",\"origin\"]"}]}]}
+COMMAND: DELETE /session/8a7f1d50c24eaba9f8c625e1e6f394d3/actions - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="chrome.129_0_6668_90.windows.test_advanced_command" name="should set and get a cookie using execute" time="2.994">
+      <system-out><![CDATA[
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+COMMAND: GET /session/8a7f1d50c24eaba9f8c625e1e6f394d3/window - {}
+RESULT: {}
+RESULT: {}
+COMMAND: DELETE /session/8a7f1d50c24eaba9f8c625e1e6f394d3 - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"cb8d4749ee719418c8c768cd3496dfa6","name":"EPAM site test","statistic":{"failed":2,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":6}},{"uid":"c52d2ab290bd07f906eafa1327832042","name":"test suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

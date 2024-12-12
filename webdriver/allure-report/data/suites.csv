@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1422","hamburger","","Tue Sep 24 15:17:42 MSK 2024","passed","Tue Sep 24 15:17:44 MSK 2024","","EPAM site test","",""
+"","1493","""OUR BRANDS"" section","","Tue Sep 24 15:17:44 MSK 2024","passed","Tue Sep 24 15:17:45 MSK 2024","","EPAM site test","",""
+"","610","logo","","Mon Sep 23 13:03:52 MSK 2024","failed","Mon Sep 23 13:03:53 MSK 2024","","EPAM site test","",""
+"","1530","""What We Do"" section","","Tue Sep 24 15:08:23 MSK 2024","passed","Tue Sep 24 15:08:24 MSK 2024","","EPAM site test","",""
+"","2740","first test","","Mon Sep 23 12:20:30 MSK 2024","passed","Mon Sep 23 12:20:33 MSK 2024","","test suite","",""
+"","2739","results for a search query","","Tue Sep 24 15:17:45 MSK 2024","failed","Tue Sep 24 15:17:48 MSK 2024","","EPAM site test","",""
+"","2857","title","","Tue Sep 24 15:17:39 MSK 2024","passed","Tue Sep 24 15:17:42 MSK 2024","","EPAM site test","",""

@@ -1,0 +1,43 @@
+{
+  "id": {
+    "sessionId": "dd09b5cc5df12bfe3c7d8c52503033e3",
+    "error": {},
+    "selector": "iframe-selector",
+    "parent": {
+      "sessionId": "dd09b5cc5df12bfe3c7d8c52503033e3",
+      "capabilities": {
+        "acceptInsecureCerts": false,
+        "browserName": "chrome",
+        "browserVersion": "129.0.6668.70",
+        "chrome": {
+          "chromedriverVersion": "129.0.6668.58 (81a06fb873a9b386848719cf9f93e59579fb5d4b-refs/branch-heads/6668@{#1318})",
+          "userDataDir": "C:\\Users\\ALIAKS~1\\AppData\\Local\\Temp\\scoped_dir19464_1630031076"
+        },
+        "fedcm:accounts": true,
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:56585"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webSocketUrl": "ws://localhost:9515/session/dd09b5cc5df12bfe3c7d8c52503033e3",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:extension:minPinLength": true,
+        "webauthn:extension:prf": true,
+        "webauthn:virtualAuthenticators": true
+      }
+    },
+    "isReactElement": false,
+    "isShadowElement": false
+  }
+}
